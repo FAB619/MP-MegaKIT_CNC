@@ -6,6 +6,8 @@ Welcome to the **MegaKIT_CNC (MP-3020)** machine documentation.
 
 **We are excited to share our open-source large Scale CNC project in collaboration with Inmachines Gmbh!!**
 
+# Loading: Work In proogress!!!
+
 
 
 Specifications
@@ -17,6 +19,11 @@ Specifications
 - Lineair guides: Hiwin HG series with rails. for XY axis: HGR25 & for Z axis: HGR20
 - Precision: up to 20 microns
 - Speed: up to 300 mm/s
+- Motors: XY: Nema34 with GearBox 5:1 ratio, Z: Nema 23
+- Controller: board with 32 Bit MCU
+- Material suported: MDF, Wood, Aluminum, PMMA, POMC, … 
+- Input Voltage: 210~240V 50-60Hz
+- Interface: [UGS](https://winder.github.io/ugs_website/), USB/ SD Card 
 - Mahine Size: 3000 x 2000 x 1500mm
 
 Acknowledgements
