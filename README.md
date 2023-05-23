@@ -14,6 +14,7 @@ Specifications
 - Working Volume: 2500 x 1250 x 200mm
 - Frame: Mix of Steel and aluminum structure.
 - Mechanical System: XY axis Rack and Pinion, Zaxis: Ball screws SFU2005 - 0.001mm
+- Lineair guides: Hiwin HG series with rails. for XY axis: HGR25 & for Z axis: HGR20
 - Precision: up to 20 microns
 - Speed: up to 300 mm/s
 - Mahine Size: 3000 x 2000 x 1500mm
