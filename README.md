@@ -39,7 +39,7 @@ Files
 - **[CAD Files ]()**
 - **[Fabrication Files ]()**
 - **[Assembly Book](https://github.com/FAB619/MP-MegaKIT_CNC/blob/main/MP%20-%20MEGAKIT%20CNC%20Assembly%20Guide.pdf)** 
-- **[Firmware]()**
+- **[Firmware](https://github.com/FAB619/MP-MegaKIT_CNC/tree/main/Firmware)**
 
 Acknowledgements
 -------------
