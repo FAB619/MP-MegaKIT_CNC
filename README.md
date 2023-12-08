@@ -8,6 +8,9 @@ Welcome to the **MegaKIT_CNC (MP-3020)** machine documentation.
 
 # Loading: Work In proogress!!!
 
+<div align="center"><img src="media/Machine.jfif" width="100%"></div>
+
+
 
 
 Specifications
